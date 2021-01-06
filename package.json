@@ -87,7 +87,7 @@
     "@mojaloop/forensic-logging-client": "8.3.0",
     "@mojaloop/sdk-standard-components": "10.3.2",
     "@now-ims/hapi-now-auth": "2.0.2",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "blipp": "4.0.1",
     "commander": "5.1.0",
     "docdash": "1.2.0",
